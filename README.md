@@ -32,7 +32,7 @@ A dynamic, interactive, and customizable data table management system built usin
 
 ### 🎁 Bonus Features (Implemented)
 
-- 🔄 Inline row editing with double-click
+- 🔄 Inline row editing
   - Validates inputs (e.g., Age must be a number)
   - "Save All" and "Cancel All" buttons for batch updates
 
@@ -100,13 +100,6 @@ npm start
 
 ---
 
-## 🧪 Testing
-
-Currently not implemented. You can extend the project using:
-- **Jest** for unit testing
-- **React Testing Library** for component testing
-
----
 
 ## 🔗 Repository & Live Demo
 
