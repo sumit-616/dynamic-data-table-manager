@@ -113,7 +113,6 @@ Currently not implemented. You can extend the project using:
 - **GitHub Repository:** [https://github.com/sumit-616/dynamic-data-table-manager](https://github.com/sumit-616/dynamic-data-table-manager)
 - **Live Preview:** [https://dynamic-data-table.netlify.app/](https://dynamic-data-table.netlify.app/)
 
-> _Replace the live preview URL above if hosted on a different domain or platform._
 
 ---
 
